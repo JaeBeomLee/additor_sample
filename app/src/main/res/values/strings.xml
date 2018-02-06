@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">additor_sample</string>
+    <string name="section_name_hint">Section name</string>
+    <string name="section_summarize_hint">Summarize this section</string>
+</resources>
